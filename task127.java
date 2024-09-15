@@ -19,7 +19,7 @@ class C extends abstractClass {
     }
 }
 
-public class task127 {
+public class Task127 {
     public static void main(String[] args) {
         B b = new B();
         b.abstractMethod(); // Should print: B's implementation of abstractMethod.
